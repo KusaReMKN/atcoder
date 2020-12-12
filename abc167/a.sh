@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 read s
 read t
