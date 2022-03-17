@@ -1,3 +1,3 @@
 # AtCoder
 
-C++ と C そしてたまに dc とか shell とか
+Solved with C, dc, C++, sh, etc.
